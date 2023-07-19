@@ -432,7 +432,7 @@ hr{
     }.banner-text p{
         font-size: 35px;
     }#banner .waves{
-        bottom: -50px;
+        content-visibility: hidden;
     }
 }
 
